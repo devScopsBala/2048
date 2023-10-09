@@ -7,7 +7,7 @@ deploying through ansible playbook with a docker container
 </head>
 
 <body>
-   <img src= "https://cdn.hashnode.com/res/hashnode/image/upload/v1696491941824/546c5ca8-1ff2-4ace-869a-17337d0e2c20.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" align="center" height="50" width="70"
+   <img src= "https://cdn.hashnode.com/res/hashnode/image/upload/v1696491941824/546c5ca8-1ff2-4ace-869a-17337d0e2c20.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" align="center" height="120" width="120"
 
    </img>
 
