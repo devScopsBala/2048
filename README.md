@@ -3,7 +3,7 @@
 deploying through ansible playbook with a docker container
 
 <head>
-   <title><mark>2048 application</mark></title>
+   <title>2048 application</title>
 </head>
 
 <body>
