@@ -19,8 +19,6 @@ pls click on the link to get the details
 
 <h3>My contact details</h3>
 
-<a href="https://linkedin.com/in/s.bala chandrudu" target="blank">
-<a href="https://instagram.com/mr__unique__devp" target="blank">
 
 <h5><mark></mark>video for 2048 deployment</mark></h5>
 
