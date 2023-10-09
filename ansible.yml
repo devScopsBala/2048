@@ -24,7 +24,7 @@
     ansible_python_interpreter: /usr/bin/python3.10
     keypair: baat
     instance_type: t2.micro
-    image_id: ami-053b0d53c279acc90
+    image_id: ami-0f5ee92e2d63afc18
     wait: yes
     group: webserver
     count: 1
