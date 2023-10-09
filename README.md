@@ -16,4 +16,10 @@ pls click on the link to get the details
    https://baladevopsblog.blogspot.com/2023/10/automate-ec2-provisioning-in-aws-using.html
 </h4>
 
+<h5>video</h5>
+
+<h4>
+   https://youtu.be/57uKMBL1DB4?si=3d9LJb1ad_YAiQqA
+</h4>
+
 </body>
