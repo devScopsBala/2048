@@ -1,5 +1,5 @@
 # 2048
-deploying through ansible playbook with a docker container
+<b>deploying through ansible playbook with a docker container</b>
 
 <head>
    <title>2048 application</title>
