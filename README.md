@@ -7,7 +7,7 @@ deploying through ansible playbook with a docker container
 </head>
 
 <body>
-   <img src=![image](https://github.com/devScopsBala/2048/assets/146183380/c37b4152-74d8-4cc2-a48c-7dac775085f2)
+   <img src= "https://dunhamconnect.com/wp-content/uploads/aws-migration-1200x675.jpg"
 
    </img>
 
