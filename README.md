@@ -19,7 +19,7 @@ pls click on the link to get the details
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/s.bala chandrudu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s.bala chandrudu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/s.bala chandrudu" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Flinkedin&psig=AOvVaw0ylpGDtguS3nZ0roXEbis7&ust=1696937114590000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDj7MDt6IEDFQAAAAAdAAAAABAE" alt="s.bala chandrudu" height="30" width="40" /></a>
 <a href="https://instagram.com/mr__unique__devp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__unique__devp" height="30" width="40" /></a>
 </p>
 
